@@ -1,0 +1,35 @@
+{
+  "name": "travel-roolette",
+  "version": "1.0.0",
+  "description": "Trave-Roolette Travel App",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChainRxn12/Travel-Roolette.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "javascript",
+    "travel"
+  ],
+  "author": "Billy Dorman & Jafet Manauth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChainRxn12/Travel-Roolette/issues"
+  },
+  "homepage": "https://github.com/ChainRxn12/Travel-Roolette#readme",
+  "devDependencies": {
+    "sass": "^1.35.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "autoprefixer": "^10.2.6",
+    "bootstrap": "^5.0.1",
+    "postcss-cli": "^8.3.1"
+  }
+}
