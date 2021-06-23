@@ -35,6 +35,7 @@
     &:hover {
         @include gradient;
         color: $white;
+        border: .1rem solid $red-roo;
         
         span {
             background-color: rgba($black, 0.6);
