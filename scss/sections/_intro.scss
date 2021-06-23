@@ -21,13 +21,15 @@
 
                 i{
                     font-size: 6rem;
-                    color: $primary;
-
+                    color: $blue-light;
+                    opacity: .7;
+                    
                 }
             }
         }
     }
 }
+
 
 .border-animation {
     position: absolute;
